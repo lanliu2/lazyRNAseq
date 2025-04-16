@@ -11,11 +11,13 @@
 ## pca分组结果
 ![](./figures/pca.png)
 ## pca聚类热图结果
-
+![](./figures/heatmap.png)
 ## pcoa结果
 ### pcoa结果
+![](./figures/pcoa.png)
 ### 90%置信区间
+![](./figures/pcoa90IC.png)
 ### 95%置信区间
-
+![](./figures/pcoa95IC.png)
 ## 差异基因火山图
-
+![](./figures/volcano.png)
